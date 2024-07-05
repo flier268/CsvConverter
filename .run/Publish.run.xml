@@ -1,0 +1,8 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish" type="CompoundRunConfigurationType">
+    <toRun name="Publish XlsxToBomUtf8Csv to folder" type="DotNetFolderPublish" />
+    <toRun name="Publish XlsxToUnicodeCsv to folder" type="DotNetFolderPublish" />
+    <toRun name="Publish XlsxToUtf8Csv to folder" type="DotNetFolderPublish" />
+    <method v="2" />
+  </configuration>
+</component>

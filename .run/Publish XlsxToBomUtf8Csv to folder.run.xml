@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish XlsxToBomUtf8Csv to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" platform="Any CPU" runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/publish" target_framework="net8.0" trim_unused_assemblies="true" uuid_high="4900285518716947134" uuid_low="-8647515763484499416" />
+    <method v="2" />
+  </configuration>
+</component>
