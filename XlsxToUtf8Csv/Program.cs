@@ -25,7 +25,7 @@ foreach (string arg in args)
         string csvPath = Path.ChangeExtension(arg, "csv");
 
         // 使用UTF8 BOM寫入csv
-        await using var sw = new StreamWriter(csvPath, false, new UTF8Encoding(true));
+        await using var sw = new StreamWriter(csvPath, false, new UTF8Encoding(false));
         // 遍寫入CSV
         await sw.BaseStream.SaveAsAsync(dt, excelType: ExcelType.CSV);
 

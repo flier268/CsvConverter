@@ -1,0 +1,8 @@
+<Project>
+    <PropertyGroup>
+        <Copyright>flier268</Copyright>
+        <PackageProjectUrl>https://github.com/flier268/CsvConverter</PackageProjectUrl>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/flier268/CsvConverter/main/LICENSE</PackageLicenseUrl>
+        <Authors>flier268</Authors>
+    </PropertyGroup>
+</Project>

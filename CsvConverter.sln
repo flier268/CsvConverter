@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsxToBomUtf8Csv", "XlsxToBomUtf8Csv\XlsxToBomUtf8Csv.csproj", "{44014FB7-691D-4ABE-87FD-DA3AC7EA6228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsxToUtf8Csv", "XlsxToUtf8Csv\XlsxToUtf8Csv.csproj", "{240C98DE-6B82-408C-A81E-B8E705AC2A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsxToUnicodeCsv", "XlsxToUnicodeCsv\XlsxToUnicodeCsv.csproj", "{3F1984E2-313C-4889-A76F-03157261CEB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{44014FB7-691D-4ABE-87FD-DA3AC7EA6228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44014FB7-691D-4ABE-87FD-DA3AC7EA6228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44014FB7-691D-4ABE-87FD-DA3AC7EA6228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240C98DE-6B82-408C-A81E-B8E705AC2A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240C98DE-6B82-408C-A81E-B8E705AC2A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240C98DE-6B82-408C-A81E-B8E705AC2A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240C98DE-6B82-408C-A81E-B8E705AC2A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1984E2-313C-4889-A76F-03157261CEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1984E2-313C-4889-A76F-03157261CEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1984E2-313C-4889-A76F-03157261CEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1984E2-313C-4889-A76F-03157261CEB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
